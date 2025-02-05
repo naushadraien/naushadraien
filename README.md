@@ -1,8 +1,11 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on **Rentisity - A Rental Property Marketplace**  <br>👯 I’m looking to collaborate on **MERN, Next.js, NestJS, and mobile development projects**  <br>🤝 I’m looking for help with **real-time chat integrations, payment gateway optimizations, and mobile app performance**  <br>🌱 I’m currently learning **advanced backend optimizations, cloud deployments, microservices with NestJS, and cross-platform mobile development**  <br>💬 Ask me about **full-stack development, MERN, NestJS, mobile development, and software architecture**  <br>⚡ Fun fact: **I can build a complete SaaS product from scratch! 🚀**
-![Profile Views](https://profile-counter.glitch.me/naushadraien/count.svg)
+🔭 I’m currently working on **Rentisity - A Rental Property Marketplace**  <br>👯 I’m looking to collaborate on **MERN, Next.js, NestJS, and mobile development projects**  <br>🤝 I’m looking for help with **real-time chat integrations, payment gateway optimizations, and mobile app performance**  <br>🌱 I’m currently learning **advanced backend optimizations, cloud deployments, microservices with NestJS, and cross-platform mobile development**
+[![GitHub WorkFlow](https://github-readme-stats.vercel.app/api/pin/?username=naushadraien&repo=Rentisity&theme=neon)](https://github.com/naushadraien/Rentisity)
+<br>💬 Ask me about **full-stack development, MERN, NestJS, mobile development, and software architecture**  <br>⚡ Fun fact: **I can build a complete SaaS product from scratch! 🚀**
+![Profile Views](https://komarev.com/ghpvc/?username=naushadraien&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 ## 🌐 Socials:
@@ -28,7 +31,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=naushadraien&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naushadraien&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=naushadraien&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=naushadraien&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naushadraien&theme=tokyonight&hide_border=false)
