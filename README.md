@@ -1,9 +1,13 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on **Rentisity - A Rental Property Marketplace**  <br>👯 I’m looking to collaborate on **MERN, Next.js, NestJS, and mobile development projects**  <br>🤝 I’m looking for help with **real-time chat integrations, payment gateway optimizations, and mobile app performance**  <br>🌱 I’m currently learning **advanced backend optimizations, cloud deployments, microservices with NestJS, and cross-platform mobile development**
-<br>💬 Ask me about **full-stack development, MERN, NestJS, mobile development, and software architecture**  <br>⚡ Fun fact: **I can build a complete SaaS product from scratch! 🚀**
-<br>
+🚀 Full-Stack Developer | MERN | Next.js | NestJS | Mobile Development  
+
+- 🔭 Currently working on **Rentisity - A Rental Property Marketplace**  
+- 🤝 Seeking collaboration on **MERN, Next.js, NestJS, and mobile apps**  
+- ⚡ Ask me about **full-stack development, software architecture, and cloud deployments**  
+- 📚 Learning **microservices, cloud deployments, and mobile performance optimizations**  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=naushadraien&label=Profile%20Views&color=0e75b6&style=flat)
 
 
