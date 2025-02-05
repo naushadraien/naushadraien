@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm MD. Naushad Raien</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | Next.js | NestJS | Mobile Development  </h3>
+<h1 >Hello and Welcome 👋, I'm MD. Naushad Raien</h1>
+<h3 >🚀 Full-Stack Developer | MERN | Next.js | NestJS | Mobile Development  </h3>
 
 
 # 💫 About Me:
 - 🔭 Currently working on **Rentisity - A Rental Property Marketplace**  
 - 🤝 Seeking collaboration on **MERN, Next.js, NestJS, and mobile apps**  
 - ⚡ Ask me about **full-stack development, software architecture, and cloud deployments**  
-- 📚 Learning **microservices, cloud deployments, and mobile performance optimizations**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=naushadraien&label=Profile%20Views&color=0e75b6&style=flat)
+- 📚 Learning **microservices, cloud deployments, and mobile performance optimizations**
 
 
 
@@ -39,6 +37,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naushadraien&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=naushadraien&label=Profile%20Views&color=0e75b6&style=flat)
