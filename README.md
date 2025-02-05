@@ -1,5 +1,8 @@
+
+
 # 💫 About Me:
 🔭 I’m currently working on **Rentisity - A Rental Property Marketplace**  <br>👯 I’m looking to collaborate on **MERN, Next.js, NestJS, and mobile development projects**  <br>🤝 I’m looking for help with **real-time chat integrations, payment gateway optimizations, and mobile app performance**  <br>🌱 I’m currently learning **advanced backend optimizations, cloud deployments, microservices with NestJS, and cross-platform mobile development**  <br>💬 Ask me about **full-stack development, MERN, NestJS, mobile development, and software architecture**  <br>⚡ Fun fact: **I can build a complete SaaS product from scratch! 🚀**
+![Profile Views](https://profile-counter.glitch.me/naushadraien/count.svg)
 
 
 ## 🌐 Socials:
@@ -18,8 +21,23 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="300"/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naushadraien&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naushadraien&theme=react-dark)
+
+![](https://github-readme-stats.vercel.app/api?username=naushadraien&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=naushadraien&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naushadraien&theme=tokyonight&hide_border=false&layout=compact)
+
+
+### 🌆 My GitHub Skyline
+[![GitHub Skyline](https://github.com/naushadraien/naushadraien/blob/main/skyline-2023.jpg)](https://skyline.github.com/naushadraien)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naushadraien&icon=0&color=0)](https://visitcount.itsvg.in)
