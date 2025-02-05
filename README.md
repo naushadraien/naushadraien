@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm MD. Naushad Raien</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | Next.js | NestJS | Mobile Development  </h3>
 
 
 # 💫 About Me:
-🚀 Full-Stack Developer | MERN | Next.js | NestJS | Mobile Development  
-
 - 🔭 Currently working on **Rentisity - A Rental Property Marketplace**  
 - 🤝 Seeking collaboration on **MERN, Next.js, NestJS, and mobile apps**  
 - ⚡ Ask me about **full-stack development, software architecture, and cloud deployments**  
