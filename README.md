@@ -24,22 +24,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="300"/>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naushadraien&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
-### 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=naushadraien&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=naushadraien&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naushadraien&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naushadraien&theme=tokyonight&hide_border=false&layout=compact)
 
 
-### 🌆 My GitHub Skyline
-[![GitHub Skyline](https://github.com/naushadraien/naushadraien/blob/main/skyline-2023.jpg)](https://skyline.github.com/naushadraien)
 
 
 ---
