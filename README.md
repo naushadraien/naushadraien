@@ -68,7 +68,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naushadraien&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📈 GitHub Contribution Graph
-[![Naushad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naushadraien&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naushad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naushadraien&theme=react)]
 
 
 
