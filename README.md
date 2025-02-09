@@ -17,6 +17,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naushad78692) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haq.naushad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-naushad-raien-98b069239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naushadraien5@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://naushadraien.com.np)
 
 # 💻 Tech Stack:
 <div align="left">
