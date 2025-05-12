@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-- 🔭 Currently working on **Rentisity - A Rental Property Marketplace**  
+- 🔭 Currently working on **ChitChat - Real time messaging mobile app**  
 - 🤝 Seeking collaboration on **MERN, Next.js, NestJS, and mobile apps**  
 - ⚡ Ask me about **full-stack development, software architecture, and cloud deployments**  
 - 📚 Learning **microservices, cloud deployments, and mobile performance optimizations**
